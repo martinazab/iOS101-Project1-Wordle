@@ -2,7 +2,7 @@
 
 Submitted by: **Martina Azasbo**
 
-**World** is an app that allows users to guess random words for X amount of tries till they succeed or fail [TODO] 
+**Wordle** is an app that allows users to guess random words for X amount of tries till they succeed or fail [TODO] 
 
 Time spent: **2** hours spent in total
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]]<iframe src="https://drive.google.com/file/d/1zEAzqOi_PRSS0JWSXQFecPPnR_07BzA3/preview" width="640" height="480"></iframe>
 
 
 ## Notes
